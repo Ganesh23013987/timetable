@@ -117,7 +117,8 @@ Execute the program
 
 # OUPUT:
 ![image](https://github.com/Ganesh23013987/timetable/assets/147473768/e7393eab-bd72-4a92-b967-2e7f1a260fb7)
-<img width="450" alt="tt" src="https://github.com/Ganesh23013987/timetable/assets/147473768/55565861-79ac-49ea-b4c0-db4a7aae1dd0">
+<img width="752" alt="Timetable output" src="https://github.com/Ganesh23013987/timetable/assets/147473768/2f67dd2f-b3de-4b2b-ad9a-0c1a15544023">
+
 
 
 
