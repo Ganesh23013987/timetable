@@ -117,7 +117,8 @@ Execute the program
 
 # OUPUT:
 ![image](https://github.com/Ganesh23013987/timetable/assets/147473768/e7393eab-bd72-4a92-b967-2e7f1a260fb7)
-<img width="451" alt="Timetable output" src="https://github.com/Ganesh23013987/timetable/assets/147473768/ce18f133-0334-47ac-995d-f9204429c8da">
+<img width="707" alt="timetable output1" src="https://github.com/Ganesh23013987/timetable/assets/147473768/88085f18-0377-42ac-9aaa-e31abf199f52">
+
 
 # RESULT:
 Then, the program is successfully executed.
