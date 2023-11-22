@@ -9,7 +9,7 @@ create a simple table using table tag
 ### STEP 2
 Add header row using th tag
 ### STEP 3
-Add your timetable
+Add my timetable
 ### STEP 4
 Execute the program
 
