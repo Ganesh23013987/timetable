@@ -126,8 +126,8 @@ Execute the program
 ```
 
 # OUPUT:
-![image](https://github.com/Ganesh23013987/timetable/assets/147473768/e7393eab-bd72-4a92-b967-2e7f1a260fb7)
-<img width="752" alt="Timetable output" src="https://github.com/Ganesh23013987/timetable/assets/147473768/2f67dd2f-b3de-4b2b-ad9a-0c1a15544023">
+<img width="440" alt="timetable f" src="https://github.com/Ganesh23013987/timetable/assets/147473768/c9347f22-2f3f-4a1e-abbe-fa975f8cf99a">
+
 
 
 
