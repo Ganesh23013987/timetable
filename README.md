@@ -126,7 +126,9 @@ Execute the program
 ```
 
 # OUPUT:
-<img width="365" alt="timetable" src="https://github.com/Ganesh23013987/timetable/assets/147473768/8a4c6382-c7df-4848-ab56-745745ac8859">
+![Uploading timetable.png…]()
+
+
 
 
 
